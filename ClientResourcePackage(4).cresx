@@ -1,0 +1,83 @@
+#promoModalWrapper{color:#444444
+}
+#divPromoModal{width:680px;height:436px;margin:auto;font-size:10pt;font-family:Arial;padding:3px;position:relative;background-color:#fff;cursor:normal;cursor:default}
+*:first-child+html #divPromoModal{overflow:hidden}
+.promo-modal-wrapper-new{width:420px!Important;height:490px!Important}
+#divPromoModalContentArea{height:230px;width:316px;overflow:hidden}
+#returnToFacebookWrapper{font-weight:normal}
+#promoModalEmailWrapper,#promoModalSignupSuccess{display:none}
+#promoModalSignupSuccess{font-weight:bold;font-size:11pt}
+#promoModalEmailWrapper p{margin:5px 0;text-align:left;overflow:auto}
+#promoModalEmailWrapper p label{width:100px;display:inline-block}
+#promoModalEmailHeader{color:#C10A23
+}
+#promoModalEmailWrapper input{width:250px;height:21px}
+#divConfirmationModalContentBox{text-align:center;border-width:1px 0;border-style:solid;border-color:#CCC;background-color:#FBFBE3;padding:8px}
+#divConfirmationModalContentBox p{margin:8px 0}
+#divPromoModal #divConfirmationModal,#divPromoModal #waitPane,#divPromoModal #errorPane,#divPromoModalLeftCol{float:left;width:315px;z-index:10;margin:5px 5px 20px 10px}
+#divPromoModal #waitPane,#divPromoModal #errorPane{position:absolute;background:#fff;height:405px}
+#divPromoModal #waitPane{z-index:20}
+#divPromoModal #errorPane{z-index:30}
+#divPromoModalOffer,#divConfirmationModal{text-align:center;font-weight:bold}
+#divPromoModalOffer h1{font-size:10pt;color:#C10A23
+}
+#divPromoModalOffer p{margin:0}
+#divPromoModal fieldset{border:0 none;margin:12px 0 5px;padding:0}
+#divPromoModal fieldset ol{margin:0;padding:0}
+#divPromoModal fieldset li{list-style-type:none;margin:0;padding:0 0 8px}
+#divPromoModal fieldset label{display:inline-block;padding-right:3px;text-align:right;width:95px}
+#divPromoModal fieldset input{border:1px solid #ABABAB;height:18px;width:204px}
+#pOfferPercent{font-size:35pt;margin:0;color:#C10A23
+}
+#PromoModalDisclaimer{font-weight:normal;font-size:8pt}
+#promoOfferTextWrapper{margin:10px 0 8px 0;float:left;text-align:left;font-size:16pt;font-weight:bold;color:#C10A23
+}
+#promoOfferWrapper{text-align:left;overflow:auto}
+#promoModalCodeWrapper{color:#FFF;padding:5px;font-weight:normal;background-color:#C10A23
+}
+#PromoModalSignUp{background:url('/images/widgets/hash_cffe59d47a89e5d81d9a07c39e74267b/button-signup.gif') no-repeat;width:130px;height:35px;float:left;cursor:pointer}
+#PromoModalEmailSignUp,#promoModalContestEmailTrigger{background:transparent url('/images/hash_5250495460eb082adc427f99a2c64e5c/Buttons-Sprite.png') no-repeat scroll 0 -146px;width:107px;height:27px;cursor:pointer;float:left;margin-left:5px}
+#PromoModalEmailSignUp:hover{background-position:0 -117px}
+#promoModalContestEmailTrigger{background-position:0 -329px}
+#promoModalContestEmailTrigger:hover{background-position:0 -300px}
+.button-ssn-old{background:url('/images/widgets/hash_9e25a99c992a8ef33ffa7684f768aebc/promo-modal-sprite.png') 0 0;width:180px;height:35px;float:left}
+#promoOfferWrapper #promoOfferBody .button-ssn-old:hover,.button-ssn-old:hover{background-position:0 -40px;cursor:pointer}
+#ConfirmSignUp{width:180px;margin:5px auto 8px;float:none}
+#divPromoModalRightCol{float:right;background:url('/images/widgets/hash_9e25a99c992a8ef33ffa7684f768aebc/promo-modal-sprite.png') ;background-position:0 -80px;width:342px;height:434px}
+#divPromoModalActions{width:195px;height:35px;float:right;margin:0 15px 10px 0}
+#divPromoModalActions span{float:left;line-height:35px;padding-left:5px}
+#InfoDisclaimer{font-size:9pt;margin-top:20px;clear:both;text-align:left}
+#divConfirmationModal{margin:0 auto;position:relative;color:#444444
+}
+#divConfirmationModal h1{font-size:38pt;margin:0;color:#C10A23
+}
+#divConfirmationModal #PromoModalPromoCodeLabel{margin:5px 0;font-size:16pt}
+#divConfirmationModal #promoModalPromoCode{color:#CC0000
+}
+#divConfirmationModal #PromoConfirmNote{font-size:9pt;margin-top:0;margin-bottom:a8px;font-weight:bold}
+#ModalConfirmDisclaimer{margin-top:8px;font-size:8pt;font-weight:normal;margin:8px 0 0;line-height:1.25em}
+.rounded-corners{border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px}
+.right-rounded-corners{border-radius:0 10px 10px 0;-moz-border-radius:0 10px 10px 0;-webkit-border-radius:0 10px 10px 0}
+.promo-modal-exit{position:absolute;right:10px;top:10px;cursor:pointer;z-index:30}
+#divPromoModal .error-content .body-container ol{padding:0 0 0 12px;margin:15px 0 15px 0}
+#divPromoModal .error-content .body-container li{list-style-type:disc;margin:0;padding:0}
+#divPromoModal .error-content .body-container{border-top:solid 1px #ababab;margin-top:8px;padding-top:8px}
+#promoModalPaneWrapper #waitPane,#promoModalPaneWrapper #errorPane{height:210px;left:3px;top:227px;text-align:center;float:none;width:385px;padding-top:50px}
+#promoModalPaneWrapper #errorPane{padding-top:10px;height:250px}
+#promoModalPaneWrapper .error-content .body-container{border-top-width:0}
+#promoModalPaneWrapper .subheader-text,#promoModalPaneWrapper .footer-text{display:none}
+#oldConfirmContentBox{height:230px;width:315px;overflow:hidden}
+#promoOfferWrapper{font-family:Arial Rounded MT Bold;text-align:center;padding:10px}
+#promoOfferHeader{display:inline-block;padding-bottom:10px}
+#promoOfferHeaderLeft{float:left}
+#promoOfferHeaderRight{float:right}
+#promoOfferWrapper .title{font-size:1.05em;text-decoration:underline;padding-bottom:10px}
+#promoOfferWrapper .coupon-text-small{text-align:center;font-size:12pt}
+#promoOfferWrapper .coupon-text-large{text-align:center;font-size:36pt;-webkit-text-stroke:.02em white;text-shadow:3px 3px 10px #888;font-weight:bold;line-height:37pt;letter-spacing:-.03em}
+#promoOfferWrapper #promoOfferBody{padding-bottom:20px}
+#promoModalWrapper #promoModalCode{color:White;font-weight:lighter;font-size:14pt;padding:10px 0}
+#promoModalWrapper #ConfirmSignUp{background:url('/images/hash_5250495460eb082adc427f99a2c64e5c/Buttons-Sprite.png') 0 -400px;width:180px;height:35px;margin:auto;float:none;margin:6px auto 0;cursor:pointer}
+#promoModalWrapper #ConfirmSignUp:hover{background-position:0 -360px}
+#promoOfferWrapper .bold-text{font-family:Arial;font-weight:bold;font-size:10pt;padding:20px 0}
+#promoOfferWrapper #promoOfferBody .button-ssn-old{float:none}
+#promoOfferBody hr{background-color:#ccc}
